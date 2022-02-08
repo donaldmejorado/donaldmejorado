@@ -1,26 +1,22 @@
 <p align="center"> 
-  <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1597554565/Component_3_tzyjtj.png" alt="joaoeliandro" />
+  <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1597554565/Component_3_tzyjtj.png" alt="boydlnavarro" />
 </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Boyd</h1>
 
 <center>
   <table>
     <tr>
         <td>
           <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeliandro&hide=html,php,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=boydlnavarro&hide=html,php,blade,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
       </td>
       <td>
-          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=joaoeliandro&show_icons=true&count_private=true&theme=dracula" />
+          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=boydlnavarro&show_icons=true&count_private=true&theme=dracula" />
       </td>
     </tr>   
   </table>
 </center>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-eliandro/)](https://www.linkedin.com/in/jo%C3%A3o-eliandro/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@joaoeliandro)](https://medium.com/@joaoeliandro)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliandrogermano@gmail.com)](mailto:eliandrogermano@gmail.com)
 
 - :man_technologist: **Full Stack** Developer.
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
@@ -49,8 +45,6 @@
 >  * Musician :saxophone:
 >  * Beer lover 🍺
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/joaoeliandro)](https://github.com/joaoeliandro)
-
 </br>
 </br>
 <p align="center"><strong>"Knowledge is Power!"</strong></p>  
@@ -59,5 +53,5 @@
   ---
   
 <p align="center">  
-  My name is João Eliandro and I'm here to change the world one day :heart:
+  My name is Boyd Navarro and I'm here to change the world one day :heart:
 </p>
