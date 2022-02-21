@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1597554565/Component_3_tzyjtj.png" alt="boydlnavarro" />
 </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Boyd</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Donald</h1>
 
 <center>
   <table>
@@ -53,5 +53,5 @@
   ---
   
 <p align="center">  
-  My name is Boyd Navarro and I'm here to change the world one day :heart:
+  My name is Donald Mejorado and I'm here to change the world one day :heart:
 </p>
