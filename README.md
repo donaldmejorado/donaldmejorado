@@ -22,6 +22,7 @@
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
 - :octocat: **Artificial Intelligence and Back end** passionate.
 - :books: Bachelor's degree in **Computer Engineering** ⚙
+- 📫 Contact **here**: [donaldmejorado@gmail.com](mailto:donaldmejorado@gmail.com)
 
 **Languages and tools:**
 
