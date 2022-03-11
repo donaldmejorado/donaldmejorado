@@ -26,17 +26,28 @@
 
 **Languages and tools:**
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/typescript.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/javascript.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/elixir.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/go.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/react.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/pheonix.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/docker.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/aws.png">
-<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/digitalocean.png">
-<img height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/linux.png">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg">
 
 #### :scroll: Fun facts: 
 >  * On the way to change the world :earth_africa: 
